@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_MuE9caO_EeOVMd_k03VJLw" type="Class" name="Goal Class Diagram.dnx">
+  <eAnnotations xmi:id="_MuGLkKO_EeOVMd_k03VJLw" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_MuGLkaO_EeOVMd_k03VJLw" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SUFjsKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SUHY4KO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SUHY4aO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SUHY4qO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SUH_8KO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SUH_8aO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SUJOEKO_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVaZYKO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVbAcKO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Task%5Bjcu%5Ename=Task.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SUFjsaO_EeOVMd_k03VJLw" x="24092" y="8559"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SVcOkKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SVn0wKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SVn0waO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVn0wqO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVn0w6O_EeOVMd_k03VJLw" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVob0KO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVob0aO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SVob0qO_EeOVMd_k03VJLw" type="EnumerationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SVpC4KO_EeOVMd_k03VJLw" visible="false" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SVpC4aO_EeOVMd_k03VJLw" visible="false" type="OperationCompartment"/>
+    <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=TaskType%5Bjcu%5Ename=TaskType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Enumeration"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SVcOkaO_EeOVMd_k03VJLw" x="30432" y="8559"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SVpp8KO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SVpp8qO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SVpp86O_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVqRAKO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVqRAaO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVqRAqO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVqRA6O_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVtUUKO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVt7YKO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Goal%5Bjcu%5Ename=Goal.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SVpp8aO_EeOVMd_k03VJLw" x="18703" y="8559"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SVt7YaO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SVuicKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SVuicaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVvJgKO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVvwkKO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SVvwkaO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVvwkqO_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVyz4KO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SVza8KO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Child%5Bjcu%5Ename=Child.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SVt7YqO_EeOVMd_k03VJLw" x="5389" y="8876"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SVza8aO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SV0CAKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SV0CAaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV0pEKO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV0pEaO_EeOVMd_k03VJLw" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV0pEqO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV0pE6O_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV1QIKO_EeOVMd_k03VJLw" type="EnumerationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV1QIaO_EeOVMd_k03VJLw" visible="false" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV1QIqO_EeOVMd_k03VJLw" visible="false" type="OperationCompartment"/>
+    <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=SupervisorType%5Bjcu%5Ename=SupervisorType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Enumeration"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SVza8qO_EeOVMd_k03VJLw" x="18703" y="-2853"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SV13MKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SV2eQKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SV2eQaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV2eQqO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV3FUKO_EeOVMd_k03VJLw" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV3FUaO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV3FUqO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV3FU6O_EeOVMd_k03VJLw" type="EnumerationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV3sYKO_EeOVMd_k03VJLw" visible="false" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV4TcKO_EeOVMd_k03VJLw" visible="false" type="OperationCompartment"/>
+    <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=CountType%5Bjcu%5Ename=CountType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Enumeration"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SV13MaO_EeOVMd_k03VJLw" x="30432" y="11729"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SV46gKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SV5hkKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SV5hkaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV5hkqO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV5hk6O_EeOVMd_k03VJLw" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV6IoKO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV6IoaO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV6IoqO_EeOVMd_k03VJLw" type="EnumerationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV6Io6O_EeOVMd_k03VJLw" visible="false" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_SV6vsKO_EeOVMd_k03VJLw" visible="false" type="OperationCompartment"/>
+    <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=AccessType%5Bjcu%5Ename=AccessType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Enumeration"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SV46gaO_EeOVMd_k03VJLw" x="24092" y="-2853"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SV6vsaO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SV7WwKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SV7WwaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV790KO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV790aO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SV790qO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SV7906O_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SV_BIKO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SV_BIaO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Supervisor%5Bjcu%5Ename=Supervisor.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SV6vsqO_EeOVMd_k03VJLw" x="11729" y="-2853"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SV_oMKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SWAPQKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SWAPQaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWAPQqO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWAPQ6O_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWA2UKO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWA2UaO_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWCrgKO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWDSkKO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=TaskID%5Bjcu%5Ename=TaskID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SV_oMaO_EeOVMd_k03VJLw" x="24092" y="4121"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SWDSkaO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SWD5oKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SWD5oaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWEgsKO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWEgsaO_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWEgsqO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWEgs6O_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWHkAKO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWHkAaO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Client%5Bjcu%5Ename=Client.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SWDSkqO_EeOVMd_k03VJLw" x="5389" y="-2853"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SWHkAqO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SWIyIKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SWIyIaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWIyIqO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWIyI6O_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWIyJKO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWJZMKO_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWLOYKO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWLOYaO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=GoalID%5Bjcu%5Ename=GoalID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SWHkA6O_EeOVMd_k03VJLw" x="11729" y="8876"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_SWL1cKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SWMcgKO_EeOVMd_k03VJLw" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_SWMcgaO_EeOVMd_k03VJLw" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWMcgqO_EeOVMd_k03VJLw" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWMcg6O_EeOVMd_k03VJLw" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_SWMchKO_EeOVMd_k03VJLw" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWNDkKO_EeOVMd_k03VJLw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWO4wKO_EeOVMd_k03VJLw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_SWO4waO_EeOVMd_k03VJLw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ChildID%5Bjcu%5Ename=ChildID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SWL1caO_EeOVMd_k03VJLw" x="11729" y="4121"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_StvZ0KO_EeOVMd_k03VJLw" source="_SUFjsKO_EeOVMd_k03VJLw" target="_SVcOkKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_StzrQKO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St0SUKO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St0SUqO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St0SUaO_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_StzrQaO_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Task%5Bjcu%5Ename=Task.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=TaskType%5Bjcu%5Ename=TaskType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_StvZ0aO_EeOVMd_k03VJLw" points="[0, 0, -3913, -2748]$[59, 738, -3854, -2010]$[3952, 738, 39, -2010]$[3913, 2748, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S5bscKO_EeOVMd_k03VJLw" id="(0.75,0.9845814977973567)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S5cTgKO_EeOVMd_k03VJLw" id="(0.4999999999999993,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St0SU6O_EeOVMd_k03VJLw" source="_SUFjsKO_EeOVMd_k03VJLw" target="_SV_oMKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St05YKO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St05YqO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St05ZKO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St05Y6O_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St05YaO_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Task%5Bjcu%5Ename=Task.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=TaskID%5Bjcu%5Ename=TaskID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St0SVKO_EeOVMd_k03VJLw" points="[0, 0, -168, -2458]$[40, 738, -128, -1720]$[207, 738, 39, -1720]$[168, 2458, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S5eIsKO_EeOVMd_k03VJLw" id="(0.5,0.9845814977973567)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S5evwKO_EeOVMd_k03VJLw" id="(0.4999999999999997,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St1gcKO_EeOVMd_k03VJLw" source="_SUFjsKO_EeOVMd_k03VJLw" target="_SV13MKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St1gcqO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St1gdKO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St2HgKO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St1gdaO_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St1gc6O_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Task%5Bjcu%5Ename=Task.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CountType%5Bjcu%5Ename=CountType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St1gcaO_EeOVMd_k03VJLw" points="[3252, -3100, -4634, 331]$[6208, -3100, -1678, 331]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S5fW0KO_EeOVMd_k03VJLw" id="(0.25,0.9845814977973567)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S5fW0aO_EeOVMd_k03VJLw" id="(0.49999999999999994,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St2HgaO_EeOVMd_k03VJLw" source="_SVpp8KO_EeOVMd_k03VJLw" target="_SWHkAqO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St2Hg6O_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St2ukKO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St2ukqO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St2ukaO_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St2HhKO_EeOVMd_k03VJLw" y="109"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Goal%5Bjcu%5Ename=Goal.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=GoalID%5Bjcu%5Ename=GoalID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St2HgqO_EeOVMd_k03VJLw" points="[-1651, -6161, 5988, 1548]$[-5666, -6161, 1973, 1548]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6D-kKO_EeOVMd_k03VJLw" id="(0.49999999999999994,0.9872495446265936)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6EloKO_EeOVMd_k03VJLw" id="(0.33355282952394655,-7.175500605703576E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St2uk6O_EeOVMd_k03VJLw" source="_SVt7YaO_EeOVMd_k03VJLw" target="_SWL1cKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St3VoaO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St3Vo6O_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St3VpaO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St3VpKO_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St3VoqO_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Child%5Bjcu%5Ename=Child.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ChildID%5Bjcu%5Ename=ChildID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St3VoKO_EeOVMd_k03VJLw" points="[197, -5177, -3905, 4755]$[197, -8074, -3905, 1858]$[3089, -8074, -1013, 1858]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6FzwKO_EeOVMd_k03VJLw" id="(0.75,0.98050139275766)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6FzwaO_EeOVMd_k03VJLw" id="(0.33362732520846694,-7.175500605703576E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St38sKO_EeOVMd_k03VJLw" source="_SVt7YaO_EeOVMd_k03VJLw" target="_SWDSkaO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St38sqO_EeOVMd_k03VJLw" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St4jwKO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St4jwaO_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St38s6O_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Child%5Bjcu%5Ename=Child.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Client%5Bjcu%5Ename=Client.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St38saO_EeOVMd_k03VJLw" points="[40, 103, 270, -3646]$[40, 2162, 270, -1587]$[-204, 2162, 26, -1587]$[-204, 3749, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6IQAKO_EeOVMd_k03VJLw" id="(0.5000001106210353,0.98050139275766)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6IQAaO_EeOVMd_k03VJLw" id="(0.3335123435822598,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St4jwqO_EeOVMd_k03VJLw" source="_SVt7YaO_EeOVMd_k03VJLw" target="_SWHkAqO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St4jxKO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St5K0KO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St5K0qO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St5K0aO_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St4jxaO_EeOVMd_k03VJLw" x="442" y="455" width="793" height="625"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Child%5Bjcu%5Ename=Child.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=GoalID%5Bjcu%5Ename=GoalID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St4jw6O_EeOVMd_k03VJLw" points="[3252, -3946, -3978, 1231]$[3613, -3946, -3617, 1231]$[3613, -3834, -3617, 1343]$[5257, -3834, -1973, 1343]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6EloaO_EeOVMd_k03VJLw" id="(0.2500001106210351,0.98050139275766)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6FMsKO_EeOVMd_k03VJLw" id="(0.6668861092824225,-7.175500605703576E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St5K06O_EeOVMd_k03VJLw" source="_SVza8aO_EeOVMd_k03VJLw" target="_SV46gKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St5x4KO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St5x4qO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St5x5KO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St5x46O_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St5x4aO_EeOVMd_k03VJLw" x="-27" y="-142"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=SupervisorType%5Bjcu%5Ename=SupervisorType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AccessType%5Bjcu%5Ename=AccessType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St5K1KO_EeOVMd_k03VJLw" points="[1599, -802, -4463, 948]$[3750, -802, -2312, 948]$[3750, -934, -2312, 816]$[4741, -934, -1321, 816]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6JeIaO_EeOVMd_k03VJLw" id="(0.5002801247329874,0.9462915601023018)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6KFMKO_EeOVMd_k03VJLw" id="(0.5000617078434975,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St5x5aO_EeOVMd_k03VJLw" source="_SV6vsaO_EeOVMd_k03VJLw" target="_SWDSkaO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St6Y8KO_EeOVMd_k03VJLw" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St6Y8qO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St6Y86O_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St6Y8aO_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Supervisor%5Bjcu%5Ename=Supervisor.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Client%5Bjcu%5Ename=Client.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St5x5qO_EeOVMd_k03VJLw" points="[20, 103, 4784, -3646]$[20, 2691, 4784, -1058]$[-4711, 2691, 53, -1058]$[-4711, 3749, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6HB4aO_EeOVMd_k03VJLw" id="(0.25,0.98050139275766)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6Ho8KO_EeOVMd_k03VJLw" id="(0.6668456769155932,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St6Y9KO_EeOVMd_k03VJLw" source="_SV6vsaO_EeOVMd_k03VJLw" target="_SVza8aO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St7AAKO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St7AAqO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St7nEaO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St7nEKO_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St7AAaO_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Supervisor%5Bjcu%5Ename=Supervisor.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=SupervisorType%5Bjcu%5Ename=SupervisorType.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St6Y9aO_EeOVMd_k03VJLw" points="[1382, -3638, -3998, 1539]$[3781, -3638, -1599, 1539]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6I3EKO_EeOVMd_k03VJLw" id="(0.75,0.98050139275766)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6JeIKO_EeOVMd_k03VJLw" id="(0.5002801247329874,-9.30429362427548E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_St7nEqO_EeOVMd_k03VJLw" source="_SV6vsaO_EeOVMd_k03VJLw" target="_SWL1cKO_EeOVMd_k03VJLw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_St8OIKO_EeOVMd_k03VJLw" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St8OIqO_EeOVMd_k03VJLw" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St81MKO_EeOVMd_k03VJLw" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_St8OI6O_EeOVMd_k03VJLw" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_St8OIaO_EeOVMd_k03VJLw" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Supervisor%5Bjcu%5Ename=Supervisor.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ChildID%5Bjcu%5Ename=ChildID.java%5Bjpack%5Ename=com.statefarm.aitp.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=CodingCompSetup%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_St7nE6O_EeOVMd_k03VJLw" points="[-1106, 103, -369, -1060]$[-1106, 163, -369, -1000]$[-1210, 163, -473, -1000]$[-1210, 1163, -473, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6Ga0KO_EeOVMd_k03VJLw" id="(0.5,0.98050139275766)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S6HB4KO_EeOVMd_k03VJLw" id="(0.6669608673428474,-7.175500605703576E-16)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_l1VKMKPJEeOVMd_k03VJLw" type="line" source="_SVpp8KO_EeOVMd_k03VJLw" target="_SV_oMKO_EeOVMd_k03VJLw" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1">
+    <styles xmi:type="notation:ArrowStyle" xmi:id="_l1VKMaPJEeOVMd_k03VJLw"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_l1VKMqPJEeOVMd_k03VJLw" lineType="Dash"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_l1VKM6PJEeOVMd_k03VJLw" points="[163, -4065, -4961, 3223]$[163, -7236, -4961, 52]$[3671, -7236, -1453, 52]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_pDFfoKPJEeOVMd_k03VJLw" type="line" source="_SVpp8KO_EeOVMd_k03VJLw" target="_SWL1cKO_EeOVMd_k03VJLw" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1">
+    <styles xmi:type="notation:ArrowStyle" xmi:id="_pDFfoaPJEeOVMd_k03VJLw"/>
+    <styles xmi:type="notation:LineTypeStyle" xmi:id="_pDFfoqPJEeOVMd_k03VJLw" lineType="Dash"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pDFfo6PJEeOVMd_k03VJLw" points="[39, -4065, 7212, 3223]$[39, -7280, 7212, 8]$[-5653, -7280, 1520, 8]"/>
+  </edges>
+</umlnotation:UMLDiagram>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite skipped="0" tests="4" failures="0" errors="0" name="com.sf.codingcomp.setup.SetupTest" time="0.692">
+  <properties>
+    <property value="IBM Corporation" name="java.vendor"/>
+    <property value="c:\Users\qtud\.m2\repository" name="localRepository"/>
+    <property value="SUN_STANDARD" name="sun.java.launcher"/>
+    <property value="Windows 7" name="os.name"/>
+    <property value="C:\SDP\E36P1\jdk\jre\lib\endorsed\jaxws-api.jar;C:\SDP\E36P1\jdk\jre\lib\endorsed\jaxb-api.jar;C:\SDP\E36P1\jdk\jre\lib\endorsed\geronimo-annotation_1.1_spec-1.0-20100114.202042-3.jar;C:\SDP\E36P1\jdk\jre\lib\vm.jar;C:\SDP\E36P1\jdk\jre\lib\annotation.jar;C:\SDP\E36P1\jdk\jre\lib\beans.jar;C:\SDP\E36P1\jdk\jre\lib\java.util.jar;C:\SDP\E36P1\jdk\jre\lib\jndi.jar;C:\SDP\E36P1\jdk\jre\lib\logging.jar;C:\SDP\E36P1\jdk\jre\lib\security.jar;C:\SDP\E36P1\jdk\jre\lib\sql.jar;C:\SDP\E36P1\jdk\jre\lib\ibmorb.jar;C:\SDP\E36P1\jdk\jre\lib\ibmorbapi.jar;C:\SDP\E36P1\jdk\jre\lib\ibmcfw.jar;C:\SDP\E36P1\jdk\jre\lib\rt.jar;C:\SDP\E36P1\jdk\jre\lib\charsets.jar;C:\SDP\E36P1\jdk\jre\lib\resources.jar;C:\SDP\E36P1\jdk\jre\lib\ibmpkcs.jar;C:\SDP\E36P1\jdk\jre\lib\ibmcertpathfw.jar;C:\SDP\E36P1\jdk\jre\lib\ibmjgssfw.jar;C:\SDP\E36P1\jdk\jre\lib\ibmjssefw.jar;C:\SDP\E36P1\jdk\jre\lib\ibmsaslfw.jar;C:\SDP\E36P1\jdk\jre\lib\ibmjcefw.jar;C:\SDP\E36P1\jdk\jre\lib\ibmjgssprovider.jar;C:\SDP\E36P1\jdk\jre\lib\ibmjsseprovider2.jar;C:\SDP\E36P1\jdk\jre\lib\ibmcertpathprovider.jar;C:\SDP\E36P1\jdk\jre\lib\ibmxmlcrypto.jar;C:\SDP\E36P1\jdk\jre\lib\management-agent.jar;C:\SDP\E36P1\jdk\jre\lib\xml.jar;C:\SDP\E36P1\jdk\jre\lib\jlm.jar;C:\SDP\E36P1\jdk\jre\lib\javascript.jar" name="sun.boot.class.path"/>
+    <property value="" name="sun.java2d.fontpath"/>
+    <property value="Sun Microsystems Inc." name="java.vm.specification.vendor"/>
+    <property value="jvmwi3260sr8-20100401_55940" name="java.runtime.version"/>
+    <property value="qtud" name="user.name"/>
+    <property value="j9jit24" name="java.compiler"/>
+    <property value="UTF8" name="os.encoding"/>
+    <property value="" name="com.ibm.util.extralibs.properties"/>
+    <property value="" name="com.ibm.jcl.checkClassPath"/>
+    <property value="en" name="user.language"/>
+    <property value="C:\SDP\E36P1\jdk\jre\bin" name="com.ibm.oti.vm.bootstrap.library.path"/>
+    <property value="C:\SDP\E36P1\jdk\jre\bin" name="sun.boot.library.path"/>
+    <property value="1.6.0" name="java.version"/>
+    <property value="America/Chicago" name="user.timezone"/>
+    <property value="32" name="sun.arch.data.model"/>
+    <property value="1" name="com.ibm.zero.version"/>
+    <property value="C:\SDP\E36P1\jdk\jre\lib\endorsed" name="java.endorsed.dirs"/>
+    <property value="24" name="com.ibm.oti.vm.library.version"/>
+    <property value="Cp1252" name="sun.jnu.encoding"/>
+    <property value="15" name="jxe.current.romimage.version"/>
+    <property value="\" name="file.separator"/>
+    <property value="Java Platform API Specification" name="java.specification.name"/>
+    <property value="50.0" name="java.class.version"/>
+    <property value="US" name="user.country"/>
+    <property value="C:\SDP\E36P1\jdk\jre" name="java.home"/>
+    <property value="JRE 1.6.0 IBM J9 2.4 Windows 7 x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA" name="java.vm.info"/>
+    <property value="6.1 build 7601 Service Pack 1" name="os.version"/>
+    <property value="C:\Users\QTUD\AppData\Local\Temp\surefirebooter4306260795042149983.jar" name="surefire.real.class.path"/>
+    <property value="" name="java.awt.fonts"/>
+    <property value=";" name="path.separator"/>
+    <property value="2.4" name="java.vm.version"/>
+    <property value="java.util.prefs.WindowsPreferencesFactory" name="java.util.prefs.PreferencesFactory"/>
+    <property value="" name="user.variant"/>
+    <property value="Cp437" name="console.encoding"/>
+    <property value="sun.awt.windows.WPrinterJob" name="java.awt.printerjob"/>
+    <property value="UnicodeLittle" name="sun.io.unicode.encoding"/>
+    <property value="sun.awt.windows.WToolkit" name="awt.toolkit"/>
+    <property value="true" name="ibm.signalhandling.sigint"/>
+    <property value="ON" name="java.assistive"/>
+    <property value="C:\Users\QTUD" name="user.home"/>
+    <property value="little" name="com.ibm.cpu.endian"/>
+    <property value="Sun Microsystems Inc." name="java.specification.vendor"/>
+    <property value="true" name="ibm.signalhandling.sigchain"/>
+    <property value="C:\SDP\E36P1\jdk\jre\bin;.;c:\progra~1\filenet\idm;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;C:\Windows\system32\windowspowershell\v1.0\;C:\PROD\iss;c:\program files\intel\wifi\bin\;c:\program files\common files\intel\wirelesscommon\;c:\program files\actividentity\securelogin\;c:\prod\w0102457;c:\program files\ibm\gsk8\lib;C:\DEV\Maven\apache-maven-2.2.1\bin;C:\SDP\E36P1\jdk\bin ;C:\Program Files\TortoiseSVN\bin;C:\PROD\wsd\smsnomad\;C:\Program Files\Micro Focus\RUMBA\;C:\Program Files\Micro Focus\RUMBA\System;C:\PROGRA~1\DB2\SQLLIB\BIN;C:\PROGRA~1\DB2\SQLLIB\FUNCTION;C:\Program Files\Intel\OpenCL SDK\2.0\bin\x86" name="java.library.path"/>
+    <property value="http://www.ibm.com/" name="java.vendor.url"/>
+    <property value="IBM Corporation" name="java.vm.vendor"/>
+    <property value="JRE 1.6.0 IBM J9 2.4 Windows 7 x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA" name="java.fullversion"/>
+    <property value="Java(TM) SE Runtime Environment" name="java.runtime.name"/>
+    <property value="C:\Users\QTUD\AppData\Local\Temp\surefirebooter4306260795042149983.jar C:\Users\QTUD\AppData\Local\Temp\surefire4217870322921748790tmp C:\Users\QTUD\AppData\Local\Temp\surefire2992926343646209473tmp" name="sun.java.command"/>
+    <property value="C:\Dev\workingcopy\2014AITP\target\test-classes;C:\Dev\workingcopy\2014AITP\target\classes;c:\Users\qtud\.m2\repository\junit\junit\4.11\junit-4.11.jar;c:\Users\qtud\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;c:\Users\qtud\.m2\repository\com\thoughtworks\xstream\xstream\1.4.5\xstream-1.4.5.jar;c:\Users\qtud\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar;c:\Users\qtud\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar;c:\Users\qtud\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar;" name="java.class.path"/>
+    <property value="Java Virtual Machine Specification" name="java.vm.specification.name"/>
+    <property value="1.0" name="java.vm.specification.version"/>
+    <property value="C:\Dev\workingcopy\2014AITP\target\test-classes;C:\Dev\workingcopy\2014AITP\target\classes;c:\Users\qtud\.m2\repository\junit\junit\4.11\junit-4.11.jar;c:\Users\qtud\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;c:\Users\qtud\.m2\repository\com\thoughtworks\xstream\xstream\1.4.5\xstream-1.4.5.jar;c:\Users\qtud\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar;c:\Users\qtud\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar;c:\Users\qtud\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar;" name="surefire.test.class.path"/>
+    <property value="C:\Users\QTUD\AppData\Local\Temp\" name="java.io.tmpdir"/>
+    <property value="20100408_01" name="java.jcl.version"/>
+    <property value="Cp1252" name="ibm.system.encoding"/>
+    <property value="x86" name="os.arch"/>
+    <property value="sun.awt.Win32GraphicsEnvironment" name="java.awt.graphicsenv"/>
+    <property value="false" name="ibm.signalhandling.rs"/>
+    <property value="C:\SDP\E36P1\jdk\jre\lib\ext" name="java.ext.dirs"/>
+    <property value="C:\Dev\workingcopy\2014AITP" name="user.dir"/>
+    <property value="
+" name="line.separator"/>
+    <property value="IBM J9 VM" name="java.vm.name"/>
+    <property value="false" name="com.ibm.oti.shared.enabled"/>
+    <property value="32" name="com.ibm.vm.bitmode"/>
+    <property value="C:\Dev\workingcopy\2014AITP" name="basedir"/>
+    <property value="15" name="jxe.lowest.romimage.version"/>
+    <property value="Cp1252" name="file.encoding"/>
+    <property value="scar" name="com.ibm.oti.configuration"/>
+    <property value="1.6" name="java.specification.version"/>
+    <property value="20100326_1904" name="com.ibm.oti.jcl.build"/>
+  </properties>
+  <testcase classname="com.sf.codingcomp.setup.SetupTest" name="testXStreamDependency" time="0.174"/>
+  <testcase classname="com.sf.codingcomp.setup.SetupTest" name="testJUnitDependency" time="0.001"/>
+  <testcase classname="com.sf.codingcomp.setup.SetupTest" name="testReadWrite" time="0.087"/>
+  <testcase classname="com.sf.codingcomp.setup.SetupTest" name="testPersistenceBetweenTests" time="0.002"/>
+</testsuite>

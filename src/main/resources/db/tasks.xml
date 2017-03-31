@@ -1,0 +1,42 @@
+<list>
+	<Task>
+		<taskID>
+			<taskID>0</taskID>
+		</taskID>
+		<taskName>Running</taskName>
+		<taskType>EXERCISE</taskType>
+		<countType>TIME_IN_SECONDS</countType>
+	</Task>
+	<Task>
+		<taskID>
+			<taskID>1</taskID>
+		</taskID>
+		<taskName>Dead Lift</taskName>
+		<taskType>EXERCISE</taskType>
+		<countType>REPITITIONS</countType>
+	</Task>
+	<Task>
+		<taskID>
+			<taskID>2</taskID>
+		</taskID>
+		<taskName>Push-ups</taskName>
+		<taskType>EXERCISE</taskType>
+		<countType>REPITITIONS</countType>
+	</Task>
+	<Task>
+		<taskID>
+			<taskID>3</taskID>
+		</taskID>
+		<taskName>Sit-ups</taskName>
+		<taskType>EXERCISE</taskType>
+		<countType>REPITITIONS</countType>
+	</Task>
+	<Task>
+		<taskID>
+			<taskID>4</taskID>
+		</taskID>
+		<taskName>Squats</taskName>
+		<taskType>EXERCISE</taskType>
+		<countType>REPITITIONS</countType>
+	</Task>
+</list>

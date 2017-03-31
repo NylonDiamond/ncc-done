@@ -1,0 +1,33 @@
+<list>
+	<Supervisor>
+		<firstName>Big</firstName>
+		<lastName>Bird</lastName>
+		<userName>Big</userName>
+		<password>Bird</password>
+		<valid>false</valid>
+		<supervisorID>100000</supervisorID>
+		<childList>
+			<ChildID>
+				<childID>100</childID>
+			</ChildID>
+		</childList>
+		<supervisorType>PARENT</supervisorType>
+	</Supervisor>
+	<Supervisor>
+		<firstName>Big</firstName>
+		<lastName>Owl</lastName>
+		<userName>Big</userName>
+		<password>Owl</password>
+		<valid>false</valid>
+		<supervisorID>200000</supervisorID>
+		<childList>
+			<ChildID>
+				<childID>100</childID>
+			</ChildID>
+			<ChildID>
+				<childID>101</childID>
+			</ChildID>
+		</childList>
+		<supervisorType>COACH</supervisorType>
+	</Supervisor>
+</list>
